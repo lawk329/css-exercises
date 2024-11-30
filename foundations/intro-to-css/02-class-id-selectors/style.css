@@ -1,0 +1,29 @@
+.odd {
+  background-color: pink;
+  margin: auto;
+  border: 5px black;
+  padding: 5px;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+  background-color: lightblue;
+  margin: auto;
+  border: 10px black;
+  padding: auto;
+  color: blue;
+  font-size: 36px;
+}
+
+.adj-font-size {
+  font-size: 24px;
+}
+
+#four {
+  background-color: lightgreen;
+  margin: auto;
+  border: 5px;
+  padding: 10px;
+  font-size: 24;
+  font-weight: bold;
+}

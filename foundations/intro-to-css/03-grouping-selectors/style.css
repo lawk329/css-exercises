@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(53, 113, 116, 0.767);
+}
+
+.dark {
+  background-color: black;
+  margin: 5px;
+  border: 5px;
+  padding: 10px;
+  color: white;
+}
+
+.light {
+  background-color: yellow;
+  color: black;
+}
+
+.dark,
+.light {
+  font-size: 28px;
+}

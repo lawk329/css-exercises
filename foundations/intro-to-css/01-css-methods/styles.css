@@ -1,0 +1,11 @@
+/*  */
+div {
+  background-color: red;
+  margin: auto;
+  border: 5px 5px;
+  padding: auto;
+  text-align: center;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
